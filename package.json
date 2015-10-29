@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/digitalsadhu/youtube-get",
   "dependencies": {
+    "clone": "^1.0.2",
+    "extend": "^3.0.0",
     "nets": "^1.0.0"
   }
 }
